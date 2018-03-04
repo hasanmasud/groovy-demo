@@ -1,6 +1,6 @@
 package online.smartcompute.groovydemo2
 
-class Hello {
+public class Hello {
 
     void hello() {
         print("hello masud")
